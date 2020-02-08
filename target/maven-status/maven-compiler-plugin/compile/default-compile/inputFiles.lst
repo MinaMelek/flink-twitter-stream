@@ -1,0 +1,10 @@
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/SlidingWindowT4.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/WordCount.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/FilterStrings.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/StreamUtil.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/SessionwindowT4.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/SumViews.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/TumblingWindowT4.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/TwitterLangCount2.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/TwitterLangCount.java
+/home/bitnami/test/Lab6/src/main/java/org/apache/flink/lab/AvgViews.java
